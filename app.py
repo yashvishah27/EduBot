@@ -22,7 +22,7 @@ recaptcha.init_app(app)
 app.config['SECRET_KEY'] = 'cairocoders-ednalan'
 
 #database connectivity
-conn=mysql.connector.connect(host='127.0.0.1',port='3306',user='root',password='yashvi@123',database='register',auth_plugin ='mysql_native_password')
+conn=mysql.connector.connect(host='http://185.27.134.10/db_structure.php?db=if0_34591282_users',port='3306',user='if0_34591282',password='XKI8nHzbtFN7D',database='if0_34591282_users',auth_plugin ='mysql_native_password')
 cur=conn.cursor()
 
 # Google recaptcha - site key : 6LdbAx0aAAAAAANl04WHtDbraFMufACHccHbn09L

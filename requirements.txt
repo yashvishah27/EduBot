@@ -50,4 +50,4 @@ typing_extensions==4.6.3
 urllib3==2.0.3
 waitress==2.1.2
 wasabi==1.1.2
-Werkzeug==2.3.6
+Werkzeug==2.2.3

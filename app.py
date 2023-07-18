@@ -1,23 +1,23 @@
 from chatbot import chatbot
 from flask import Flask, render_template, request,session,logging,url_for,redirect,flash
-#from flask_recaptcha import ReCaptcha
+from flask_recaptcha import ReCaptcha
 import mysql.connector
 import os
 
 app = Flask(__name__)
-#recaptcha = ReCaptcha(app=app)
+recaptcha = ReCaptcha(app=app)
 app.secret_key=os.urandom(24)
 app.static_folder = 'static'
 
 
 app.config.update(dict(
-    #RECAPTCHA_ENABLED = True,
-    #RECAPTCHA_SITE_KEY = "6LdQADUnAAAAACcPCidGnDW_1BixThYnadJrNnNa",
-    #RECAPTCHA_SECRET_KEY ="6LdQADUnAAAAAO2zt6depknygGW1Ps8K13QNykjx"
+    RECAPTCHA_ENABLED = True,
+    RECAPTCHA_SITE_KEY = "6LdQADUnAAAAACcPCidGnDW_1BixThYnadJrNnNa",
+    RECAPTCHA_SECRET_KEY ="6LdQADUnAAAAAO2zt6depknygGW1Ps8K13QNykjx"
 ))
 
-#recaptcha=ReCaptcha()
-#recaptcha.init_app(app)
+recaptcha=ReCaptcha()
+recaptcha.init_app(app)
 
 app.config['SECRET_KEY'] = 'cairocoders-ednalan'
 

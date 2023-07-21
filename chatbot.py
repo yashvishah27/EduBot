@@ -16,7 +16,7 @@ chatbot = ChatBot(
     logic_adapters=[
         {
             'import_path': 'chatterbot.logic.BestMatch',
-            'default_response': "Hi there, Welcome to KJ's EduBOT! 👋 If you need any assistance, I'm always here.Go ahead and write the number of any query. 😃✨<b><br><br> Which of the following user groups do you belong to?<br><br> 1.&emsp;First Year Admission Query</br>2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M Tech Query</br>4.&emsp;P.H.D Query</br><br>",
+            'default_response': "Hi there, Welcome to KJSIT's EduBOT! 👋 If you need any assistance, I'm always here.Go ahead and write the number of any query. 😃✨<b><br><br> Which of the following user groups do you belong to?<br><br> 1.&emsp;First Year Admission Query</br>2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M Tech Query</br>4.&emsp;P.H.D Query</br><br>",
             'maximum_similarity_threshold': 0.90
         }
     ],

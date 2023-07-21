@@ -32,16 +32,16 @@ conversation = [
 "Hey",
 
 "How are you?",
-"I'm good.</br> <br>Go ahead and write the number of any query. 😃✨ <br> 1.&emsp;First Year Admission Query</br>2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M Tech Query</br>4.&emsp;P.H.D Query</br>",
+"I'm good.</br> <br>Go ahead and write the number of any query. 😃✨ <br> 1.&emsp;First Year Admission Query</br>2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M.Tech Query</br>4.&emsp;Ph.D Query</br>",
 
 "Great",
-"Go ahead and write the number of any query. 😃✨ <br> Go ahead and write the number of any query. 😃✨ <br> 1.&emsp;First Year Admission Query</br>2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M Tech Query</br>4.&emsp;P.H.D Query</br>",
+"Go ahead and write the number of any query. 😃✨ <br> Go ahead and write the number of any query. 😃✨ <br> 1.&emsp;First Year Admission Query</br>2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M.Tech Query</br>4.&emsp;Ph.D Query</br>",
 
 "good",
-"Go ahead and write the number of any query. 😃✨ <br> 2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M Tech Query</br>4.&emsp;P.H.D Query </br>",
+"Go ahead and write the number of any query. 😃✨ <br> 2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M.Tech Query</br>4.&emsp;Ph.D Query </br>",
 
 "fine",
-"Go ahead and write the number of any query. 😃✨ <br> 2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M Tech Query</br>4.&emsp;P.H.D Query </br>",
+"Go ahead and write the number of any query. 😃✨ <br> 2.&emsp;Direct Second Year Admission Query </br>3.&emsp;M.Tech Query</br>4.&emsp;Ph.D Query </br>",
 
 
 "Thank You",
@@ -58,7 +58,7 @@ conversation = [
 "Thank You for visiting!..",
 
 "What do you do?",
-"I am made to give Information K J SOMAIYA college.",
+"I am made to give Information K J SOMAIYA Institute of Technology college.",
 
 "What else can you do?",
 "I can help you know more about K.J. Somaiya",
@@ -71,11 +71,11 @@ conversation = [
     
 
     "3",
-    "<b>MTech Query <br>The following are frequently searched terms related to student in K J Somaiya college. Please select one from the options below : <br> <br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'">👉Department Details</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'">👉Fees</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'">👉Seat-Distribution</a> </b><br><br><b> <a href="'https://www.somaiya.edu.in/en/hostel-housing/'">👉Hostel</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/placement'">👉Placement</a> </b><br><br> <b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'"> 👉Documents Required</a></b> " ,
+    "<b>M.Tech Query <br>The following are frequently searched terms related to student in K J Somaiya college. Please select one from the options below : <br> <br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'">👉Department Details</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'">👉Fees</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'">👉Seat-Distribution</a> </b><br><br><b> <a href="'https://www.somaiya.edu.in/en/hostel-housing/'">👉Hostel</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/placement'">👉Placement</a> </b><br><br> <b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'"> 👉Documents Required</a></b> " ,
 
 
     "4",
-    "<b>P.H.D Query <br>The following are frequently searched terms related to student in K J Somaiya college. Please select one from the options below : <br> <br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd'">👉Department Details</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd#admissionprocess'">👉Admission Process</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd#pet'">👉PET-TEST Details</a> </b><br><br><b> <a href="'https://www.somaiya.edu.in/en/hostel-housing/'">👉Hostel</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd#prog-duration'">👉Program Details</a> </b><br><br> <b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'"> 👉Documents Required</a></b>",
+    "<b>Ph.D Query <br>The following are frequently searched terms related to student in K J Somaiya college. Please select one from the options below : <br> <br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd'">👉Department Details</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd#admissionprocess'">👉Admission Process</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd#pet'">👉PET-TEST Details</a> </b><br><br><b> <a href="'https://www.somaiya.edu.in/en/hostel-housing/'">👉Hostel</a> </b><br><br><b> <a href="'https://kjsit.somaiya.edu.in/en/admission/phd#prog-duration'">👉Program Details</a> </b><br><br> <b> <a href="'https://kjsit.somaiya.edu.in/en/admission/pg-artificial-intelligence'"> 👉Documents Required</a></b>",
     
 ]
 
